@@ -1,0 +1,24 @@
+{
+  "name": "nsort",
+  "version": "1.0.0",
+  "description": "Function for sorting arrays of numbers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitaliyOsin/Nsort.git"
+  },
+  "keywords": [
+    "javascript",
+    "array",
+    "sort"
+  ],
+  "author": "VitaliyOsin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitaliyOsin/Nsort/issues"
+  },
+  "homepage": "https://github.com/VitaliyOsin/Nsort#readme"
+}
